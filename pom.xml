@@ -11,6 +11,7 @@
   </properties>
   
   <modules>
+	  <module>tutorialapi-rest</module>
 	  <module>tutorialapi-server</module>
   </modules>
 
